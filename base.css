@@ -78,3 +78,7 @@ body {
         text-align: center;
 }
 
+form p {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
